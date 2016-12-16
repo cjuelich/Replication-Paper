@@ -1,0 +1,140 @@
+---
+title: "Citizenship and Student Debt, How the Rising Cost of Higher Education is Lowering Participation in Traditional Civic Activities
+"
+author: "Courtney Juelich"
+date: "December 14, 2016"
+output: html_document
+bibliography: 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Introduction
+Political Scientists have been studying the decline in younger American’s use of traditional civic outlets, like voting since the youngest of the electorate voted in the 1972 election following the Constitutional Amendment that reduce the age in which one has that to right to vote from 21 to 18. Academics and reporters have cited many different hypotheses that they claim explains this phenomenon, some of which are: the de-emphasis of a civic education (Pasek et al, 2008), the failure campaigns to utilize the internet as a mobilization tool (Montgomery et al, 2004), a culture of fear cultivated in the post 9/11 world, a formidable and influential time for millennials (Giroux, 2003), and most critically, that today’s youth are “lazy” (Sanchez, 1992) or apathetic by choice (Putnam, 2002). 
+                                                                                                         Russell J. Dalton, a Political Scientist and author of The Good Citizen: How a Younger Generation is Reshaping American Politics, rejects the idea that the younger generation is apathetic and lazy, and instead theorizes how certain demographical characteristics of a person or group can determine their choices in regards to civic participation. Dalton also outlines two different types of citizenship, engaged and duty- or traditional. He uses these distinct civic activity types to understand how key demographical groups, like gender, income, education levels, and party identification, interact with preferences in how to engage with the political system, if one choses to engage at all. 
+                                                                                                         
+My study looks into another variable as a determinant of civic participation: the amount of student debt that one has accumulated throughout the course of their time in higher education. Like Giroux’s discussion of 9/11 as being an influential factor in how the youngest generation views the political realm, debt too could be a factor that uniquely effects the youngest generation. Millennials have seen the cost of college tuition soar as compared to their parents and older acquaintances from both the boomer generation and generation x. Not only has the cost of college increased in the number of inflation-adjusted dollars, but across the states as a whole, and more so in some than in others, the state governments have cut their contributions to public institutions of higher education by two-thirds in most cases. As of 2015, the average student was found to have over $30,000 dollars in student debt, and a sizable amount of these students also have debt in other areas such as credit card to afford housing and groceries, and loans for cars (The Institute for College Access and Success).
+
+As student debt is at an all-time high, with the cost rising 538 percent since 1985 (Jamrisko and Kolet, 2013), it is important to look deeper into the generational effect that is a heightened burden of student debt, as it may be a viable determinant for observed shifts in political participation activities among youth. It could be that debt is aiding the youths’ exodus from institutional forms of participation outlined by Dalton, or it could be that his correlative analysis is missing the effect that debt has on the youth, and we could see debt have a normalizing effect on youth, returning them to institutional forms of participation. Could it be that this early exposure to financial crises encourages the youth to seek out direct and traditional veins of political activism, in realization of the tanigble legislative outcomes resulting from traditional activities? This paper seeks to address the trends of youth participation both in political institutions and through news and media sources to better understand how they are effected by student debt.
+
+# Youth Participation and Student Debt
+Starting in the middle of the 2000s, scholars began seeking to understanding what effects when and how younger citizens participate in politics given the uncharacteristic high voter turnout, attention, and activism in the 2008 presidential election of Barack Obama.  Some of these scholars found that the youth are not participating in politics as much as other generational cohorts because of perceptions of the political system being unresponsive or corrupt.  Lawless and Fox (2015) find that the mean-spirited and dysfunctional nature and portrayal of the American political system has led to the youth not believing in the ability of elected officials and the government at large to be an effective entity for promoting positive change. They also find that the youth feel alienated from contemporary American politics on a whole. Lawless and Fox also write that, while these trends of millennials ‘running from office’ are persuasive, their effects can be mitigated by greater amounts of formal education, specifically a college education. 
+	
+Russell Dalton, like Lawless and Fox, was also interested in explaining youth participation in the twenty-first century. In his book The Good Citizen: How a Younger Generation is Reshaping American Politics (2008, 2010), he found that the youngest members of the electorate are indeed participating, just doing so outside of the institutionalized ways that the older generations have participated. In this book Dalton outlines two distinct types of citizenship that helps account for, and potentially corrects, for the observed decline in the youth’s participation. The first type of citizenship, as defined by Dalton, is citizen duty, where in regards to the 2005 CID Survey and the 2004 General Social Survey, characteristics include a focus on the norms of social order; these include serving on a jury if called, always obeying laws and regulations, men serving in the military when the country goes to war, and reporting a crime that he or she has witnessed. Political activities that Dalton associates with duty-based citizens are a strong sense of responsibility to vote in elections, a deference to political authorities, working for political campaigns, donating money to parties and candidates, and a strong allegiance to the state. Citizen duty is often described as conservative, traditional, institutional, and less tolerant of new experiences and of different political views. 
+
+The second citizenship is called engaged citizenship. In contrast, engaged citizenship places value upon forming one’s own opinions independently of others, participation in voluntary groups, supporting people who are worse off than themselves, being active in politics, participating in boycotts and buycotts, signing petitions, demonstrating (illegally and legally), forwarding political emails and other various web activities, and questioning authority. In general, engaged citizenship is described as liberal, communitarian, and more likely to utilize direct forms of political and civic participation that generally exist outside of established and traditional political institutions. 
+
+In Dalton’s book, The Good Citizen: How a Younger Generation is Reshaping American Politics, which is based off of the aforementioned paper, Dalton does not only mention the tendencies of each type of citizenship, but also which demographic tend to be associated with which type of citizenship. Specifically, Dalton looks at age, education, religiosity, and partisan difference, when comparing them to his two citizenships. 
+
+For age, Dalton shows that the older you are the more likely one is to be citizen duty, and inversely the younger you are the more likely one is to be engaged citizen. He claims that the data and the correlations he estimated are a demonstration that the younger generation has not in fact lost its citizenship values, but that there has been a participatory-outlet generational shift based on their socialization and experiences with the political system. 
+
+For education, things fluctuate more. In general, the more education one had the more likely one was to hold values and characteristics that were consistent with engaged citizenship. Engaged citizenship peaked at those with graduate’s degree, and was lowest with those who had just a high school education. Citizen duty also increases with the amount of education, which peaks at those with junior college education, and was the lowest with those with less than a high school education. Even though the differences are modest at times, the data does show that those with more education are more likely to be engaged citizens. 
+
+Dalton uses the evidence he found for both age and education to claim that citizenship participation is not lacking in general, but that the types of participation most utilized by different demographical groups have simply shifted and reflect socialization experiences, and more specifically from Citizenship Norms and Political Participation in America: The Good News Is... the Bad News Is Wrong, that the young reflect a new political reality, and stress alternative norms that should encourage a more rights conscious public, a socially engaged public, and a more deliberative image of citizenship.
+
+One such generational effect and shared socialization experience that could account for the directional relationships that Dalton found for both age and education levels, could be the rising cost of higher education the corresponding amounting debt that it leaves its consumers in. Jamrisko and Kolet found, using data from the Labor Department, that the cost of attending college had risen by 538 percent since 1985. What makes this statistic even more startling is the fact that the Consumer Price Index, which takes into account the rise in inflation over time has failed to keep up with education costs, as it has only increased by approximately 122 percent since 1985.  Additionally, Mother Jones, using data from the National Center for Education Statistics, reported that the average cost (tuition, room and board, and fees) of attending a four-year college (in 2010 dollars) had risen from $8,756 in 1980, to $21,657 in 2010 (Severns, 2013). This same article also reports, utilizing the Federal Reserve of New York, that the number of student borrowers had increased by 66 percent, and the average student loan amount balance has increased by 49 percent. According to the U.S. Department of Education, the increase in the number of loans being taken out holds true for all types of loans; subsidized in which the government pays the interest, unsubsidized in which the government does not pay the interest, and Stafford loans. Finally, the State Higher Education Executive Officers Association reported on public full-time enrollment (FTE) from 1987 to 2012, specifically, the educational appropriations per FTE student by the government (state or federal) and the net tuition revenue per FTE (with the dollars held constant at a 2012-dollar level). The nation-wide graph showed that though the price of public education, after adjusting amount to be in 2012 dollars, has not significantly changed, the amount of governmental appropriations fell from covering 79.65 percent of costs in 1987, to 53.23 percent of costs in 2012. Additionally, revenues made from FTE students more than doubled from $2,588 per FTE student in 1987 to $5189 per FTE student in 2012.
+
+This evidence supports the idea that tuition costs have been on the rise, and that students and parents of dependents have been taking out more loans and going into more debt to be able to attend college. The effects of this generational change have yet to be examined, and the effects have not yet even been fully matriculated by millennials, who the youngest among them are just entering college this year. While both Lawless and Fox and Dalton make great strides to understanding the intricacies of how the youngest, and now largest, generation in The United States interact with the political sphere, none of these authors have considered the effect that student debt, a generationally salient phenomenon, has had on millennials’ interactions with the political system. 
+
+The possibility that the current civic participation shifts and trends that have been observed have been in part effected by student debt, or that that debt could play an important determinant in understanding participation even more fully, is a relationship that can be studied and is newly examinable through the inclusion of a student debt question on the most recent iteration of the Congressional Cooperative Election Survey (CCES). 
+
+This study is particularly timely, as we saw in the 2016 presidential election and Democratic primary, the emergence and somewhat surprising success and competitiveness of a candidate, Bernie Sanders, who ran on millennial issues, most notably, free college tuition and student loan debt forgiveness and refinancing. This recent event, in which millennials participated in primary elections at unprecedented numbers, overwhelming polling stations to the point that many had to stay open for hours after the polls closed, illustrates the strong connection with youth political participation and concerns over the state of their student debtor status. 
+
+The overarching theory of this paper is that the accumulation of student debt forces those with it, to have to deal with financial realities earlier in their lives than those in the same generational bracket who do not have student debt; thus influencing their propensities towards some forms of political participation over others. The accumulation of debt leads to an overall distrust or discontent with the political system for millennials, but those of them with student debt feel the need to operate through the institutions to see tangible outcomes, but prefer to use non institutional sources for their news. From this theory three main hypotheses are generated, with the third hypothesis diverging into three more specific relationships:
+
+H1: Millennials with student debt will be more likely to participate in traditional forms of political participation
+
+H2: Millennials with debt will more likely than older generations, and those without debt to use various forms of medias to obtain political information
+
+H3: Millennials with debt will be more likely to use new media sources to obtain their news than those without debt, and more so than members of older generations
+
+H3a: Millennials with debt will be more likely to use online news sources, than those without debt, and older generations.
+
+H3b: Millennials with debt will be more likely to visit blogs, than those without debt, and older generations.
+
+H3c: Millennials will be more likely to donate to political groups (not parties and candidates), than those without debt, and older generations.
+
+# Data and Methods
+For the analysis need to test the aforementioned hypotheses, I will be using data from the 2014 Cooperative Congressional Election Survey (CCES). The CCES is an online survey of 56,200 participants from the United States. It is conducted around the November 2014 mid-term elections and uses survey weights to make the sample representative of the adult population of adults in the United States, especially among registered voters. This survey is designed to provide district level data and to be nationally representative. The CCES asks a wide variety of demographical questions, which are repeated with each iteration, and teams can submit questions that can vary from year to year.
+
+While there are several surveys that look at political participation activities, the (CCES) is able to gather this data while still ensuring a comparably large sample size. Unlike the General Social Survey which asks an expanded list of political activities at the sacrifice of sample size (often these activities have less than 1,000 respondents), the CCES tends to have over 50,000 respondents for each activity. Additionally, of all the comprehensive American election surveys, the CCES is the only one to ask a question about student debt. This larger sample size helps to estimate more accurate models, and also helps us as researchers feel more confident about the extrapolation from our samples to the population we are inevitably seeking to appraise. 
+
+For the three groups of models included in this paper, I have created two event count variables, first, traditional politics, made up of respondents reporting voting, putting up political signs, attending local meetings, working for a candidate or campaign, and donating to candidate or campaign. The second event count, media use, is for respondents reporting using a number of the four forms of media consisting of blogs, television, radio, or newspaper to get their news. For the third model, new forms of media and participation, respondents reporting accessing online news sources, blogs, and giving money to non-campaign and candidate centric political groups, often described as ‘move on groups’. As the first two models have dependent variables that exist of counts of other variables, a Poisson model is used. For model three, in which the three activities are differentiated and are just whether a respondent used a method or participated in an activity, a logistic regression was estimated.  
+
+For the key variables of my theory, hypotheses, and models, the included debt variable is simply a response of whether you have student debt or not (or that you do not know your student debtor status, a response controlled for in a proceeding models), and is used in its binary nature alongside a dummy variable for not knowing your debtor status. For the millennial generation, most sources, both academic and governmental place millennials in 2014 between the ages of 18 and 34. Millennials is coded as a dummy with ages greater than 35 being classified as older. For this analysis coding all the older generations, generation x, boomer, and greatest, is appropriate as the theory is dealing with a singularity difference for millennials, not for a difference that varies in magnitude across all the generations. To differentiate generational effects from lifetime effects, the variable of age was included in this analysis, and discussion of differences in findings between the two age related variables will follow with the discussion of each of the three unique models. Additionally, as we know that some states have a more established history of civic engagement, and that voting laws vary across the states, each model was clustered by state, and the appropriate weights were used. Finally, as the theory and hypotheses deal with the analysis of a potential of student debt for millennials on participation, it is necessary to utilize an interaction term in all of the following models. 
+
+## Model One: Traditional Politics
+To test the first hypothesis, that millennials with student debt will be more likely to engage in traditional forms of political participation than members of the same cohort who do not have debt a Poisson regression containing the base terms of millennial and debt, as well as the interaction was estimated in regards to one’s propensity to engage in a count of the traditional politics combined variable. Controls pertaining to established models on participation trends across demographic groups were used, as were several variables that concern to income and economic position, which would affect the burden of debt that a debtor identifies with.
+The results of this Poisson regression are presented in Table One under the column labeled ‘Tradpol” for traditional political activities. 
+```{r echo=FALSE, warning=FALSE, message=FALSE, results='hide', error=TRUE}
+#load packages
+if(!require('rio')) install.packages("rio")
+    library(rio)
+if(!require('tidyverse')) install.packages("tidyverse")
+    library(tidyverse)
+if(!require('margins')) install.packages("margins")
+    library(margins)
+
+#get the data from the harvard data base
+
+cces_data <- import("")
+
+#recode controls and dependent variables
+cces14 <- cces_data %>%
+        transmute(weight = weight,
+                  age = 2014 - birthyr,
+                  female = recode(gender, `1` = 0, `2` = 1),
+                  gop = if_else(pid3 == 2, 1, 0),
+                  dem = if_else(pid3 == 1, 1, 0),
+                  conservative = if_else(ideo5 == 6, 3, ideo5),
+                  white = if_else(race == 1, 1, 0),
+                  income = if_else(faminc == 31 | faminc == 32, 15, faminc),
+                  income = if_else(income == 97 | is.nan(income) == TRUE, 6.14, income),
+                  millennial = if_else(between(age, 18, 34), 1, 0),
+                  debt = if_else(edloan == 1, 1, 0),
+                  educ = educ,
+                  vote12 = if_else(CC14_316 == 4, 1, 0),
+                  localmtg = if_else(CC417a_1 == 1, 1, 0),
+                  sign = if_else(CC417a_2 == 1, 1, 0),
+                  workcampcand = if_else(CC417a_3 == 1, 1, 0),
+                  donate = if_else(CC417a_4 == 1, 1, 0),
+                  tradpol = vote12 + localmtg + sign + workcampcand + donate) %>%
+        select(-vote12, -localmtg, -sign, -workcampcand, -donate)
+
+m1 <- glm(tradpol ~ debt*millennial + 
+            age + educ + female + gop + dem + 
+            conservative + income + white, 
+          data = cces14, family = "poisson",
+          weights = weight)
+
+```
+
+```{r}
+summary(m1)
+```
+
+From this output we can observe that debtor status is statistically significant (p<0.001), and that it is positive; thus indicating that student debtors participate in more traditional political activities than non-debtors do. Looking now to millennial status, the generational identity is neither statistically nor significantly associated with participating in traditional political activities. The interaction term of student debtor status and millennial status was, like debtor status, significant (p<0.001) and positively associated with participation in traditional activities. Looking to age, as a check on the generational versus lifetime effect, is also significant and positive. The interesting point to note is that, as we can see millennial status alone is insignificant in determining propensities towards traditional activities, when it is interacted with debt, we see a strong positive association; one of the strong effects outside of party identification, stock ownership, and union membership. Further, as we can see from the age variable, the established relationship is that older respondents are more likely to participate in traditional activities, as many theories would contend, but when we interact generation with debt, the youngest members of society are now more likely to engage in these activities. This substantive result is presented in Figure 1, in which the predictive margins of the interaction term are graphically illustrated across generational groups with confidence intervals to further establish substantive results.
+
+```{r echo=FALSE, warning=FALSE, message=FALSE, results='hide', error=TRUE}
+m1_margins_response <- margins(m1, data = cces14_margins, 
+                      type = "response", 
+                      at = list(debt = 0:1, millennial = 0:1))
+summary(m1_margins)
+```
+
+```{r echo=FALSE}
+cplot(m1, x = "debt", what = "prediction", data = cces14[cces14[["millennial"]] == 0,],
+      col = "red", se.type = "shade", xlim = c(0, 1), 
+      ylim = c(0.7, 1.5), main = "AME of Debt on Participation")
+cplot(m1, x = "debt", what = "prediction", data = cces14[cces14[["millennial"]] == 1,],
+      col = "blue", se.type = "shade", xlim = c(0, 1), 
+      ylim = c(0.7, 1.5), main = "AME of Debt on Participation",
+      draw = "add")
+```
+
+From this figure we can see that among millennials and members of older generations who do not have debt, there is no substantive difference between their participation habits when it comes to the five acts of traditional political engagement. Additionally, we can see an interesting and unexpected finding, in that members of the older generations substantively vary within their own grouping when they have student debt as well; members of the older generations who have debt are more likely than their cohort members without debt, to engage in more forms of traditional politics. Most importantly, and necessary for addressing hypothesis one, millennials with debt are much more likely than their fellow cohort members to report participation in traditional politics. Thus, hypothesis one is supported; indebted millennials are more likely to engage in traditional politics, a finding that runs counter to the existing literature on youth participations which model’s do not include the student debt variable. 
+
+# Discussion and Conclusion
+# References
+
